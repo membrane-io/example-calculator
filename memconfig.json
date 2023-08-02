@@ -1,0 +1,78 @@
+{
+  "schema": {
+    "types": [
+      {
+        "name": "Root",
+        "description": "A simple calculator program",
+        "actions": [
+          {
+            "name": "sum",
+            "type": "Float",
+            "params": [
+              {
+                "name": "a",
+                "type": "Float"
+              },
+              {
+                "name": "b",
+                "type": "Float"
+              }
+            ]
+          },
+          {
+            "name": "multiply",
+            "type": "Float",
+            "params": [
+              {
+                "name": "a",
+                "type": "Float"
+              },
+              {
+                "name": "b",
+                "type": "Float"
+              }
+            ]
+          },
+          {
+            "name": "subtract",
+            "type": "Float",
+            "params": [
+              {
+                "name": "a",
+                "type": "Float"
+              },
+              {
+                "name": "b",
+                "type": "Float"
+              }
+            ]
+          },
+          {
+            "name": "divide",
+            "type": "Float",
+            "params": [
+              {
+                "name": "a",
+                "type": "Float"
+              },
+              {
+                "name": "b",
+                "type": "Float"
+              }
+            ]
+          },
+          {
+            "name": "sqrt",
+            "type": "Float",
+            "params": [
+              {
+                "name": "a",
+                "type": "Float"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
