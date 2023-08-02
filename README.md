@@ -1,4 +1,4 @@
-# Calculator example
+# Calculator
 
 This is a Membrane program that provides basic math operations. Includes functions for performing addition, multiplication, subtraction, division, and calculating the square root.
 
