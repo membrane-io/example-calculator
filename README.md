@@ -6,4 +6,4 @@ This is a Membrane program that provides basic math operations. Includes functio
 
 Paste the following URL in your browser to install from VSCode (requires the [Membrane extension](https://marketplace.visualstudio.com/items?itemName=membrane.membrane)).
 
-vscode://membrane.membrane/directory/example-calculator
+vscode://membrane.membrane/directory/example-calculator 
